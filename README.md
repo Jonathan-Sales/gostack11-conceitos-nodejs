@@ -8,7 +8,7 @@ Essa é uma aplicação para armazenar repositórios do seu portfólio, que irá
 
 ```
     /* Clonar o repositório */
-    git clone [https://github.com/Jonathan-Sales/gostack11-conceitos-nodejs](https://github.com/Jonathan-Sales/gostack11-conceitos-nodejs)
+    git clone https://github.com/Jonathan-Sales/gostack11-conceitos-nodejs
 
     /* Instalar as dependências */
     yarn
